@@ -1,6 +1,6 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 # Robotic arm - Pick & Place project
-The goal of this project is to calculate the Inverse kinematics of Robotic arm to pick the object from the shelf and place it into the trash. see my `pdf` for extended details.
+The goal of this project is to calculate the `Inverse kinematics` of Robotic arm to pick the object from the shelf and place it into the trash. see my `pdf` for extended details.
 
 ![pick&place](/misc_images/pick-place.gif)
 
