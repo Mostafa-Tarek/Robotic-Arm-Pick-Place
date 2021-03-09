@@ -2,7 +2,7 @@
 # Robotic arm - Pick & Place project
 The goal of this project is to calculate the Inverse kinematics of Robotic arm to pick the object from the shelf and place it into the trash. see my `pdf` for extended details.
 
-![pick&place](/misc_images/pick_place.gif)
+![pick&place](/misc_images/pick-place.gif)
 
 # Project Setup
 
