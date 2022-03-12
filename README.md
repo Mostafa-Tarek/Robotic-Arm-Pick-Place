@@ -1,4 +1,4 @@
-# Robotic arm - Pick & Place project
+# Robotic arm KUKA KR 210- Pick & Place project
 The goal of this project was to calculate the `Inverse kinematics` of Robotic arm to pick the object from the shelf and place it into the trash. see my `pdf` for extended details.
 
 ![pick&place](/misc_images/pick-place.gif)
